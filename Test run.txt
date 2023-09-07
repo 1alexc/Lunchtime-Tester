@@ -1,0 +1,2 @@
+This text is a test to see if we can create a repo properly
+then add, commit and push to github
